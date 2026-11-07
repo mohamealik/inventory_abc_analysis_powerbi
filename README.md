@@ -28,48 +28,65 @@ Power BI, DAX, Excel
 3. Reduce purchasing or run promotions for overstocked items (e.g., Polkadot Picnic Blanket).
 4. Monitor high-turnover Class C items (e.g., Antique Bookmark Set) before reducing their stock.
 5. Do not rely on revenue alone for replenishment decisions; use turnover, COGS and ABC class together.
-
 ## Report Pages
+
+### 1. Preparing data
 
 
 ![Preparing data](1_preparing_data.png)
 
 
 
+### 2. COGS, Revenue and Profit
+
 
 ![COGS, Revenue and Profit](2_cogs_revenue_profit.png)
 
 
+
+### 3. Sales by year
 
 
 ![Sales by year](3_sales_by_year.png)
 
 
 
+### 4. Revenue and class
+
 
 ![Revenue and class](4_revenue_and_class.png)
 
 
 
+### 5. Preliminary results
 
-![Preliminary results](5_preliminary_results.png)
+
+![Preliminary results](5_perliminary_results.png)
 
 
+
+### 6. Smart purchasing
 
 
 ![Smart purchasing](6_smart_purchasing.png)
 
 
 
+### 7. Inspecting categories
+
 
 ![Inspecting categories](7_inspecting_categories.png)
 
 
 
+### 8. Control decisions
+
 
 ![Control decisions](8_control_decisions.png)
 
 
+
+### 9. Management solutions
 
 
 ![Management solutions](9_management_solutions.png)
